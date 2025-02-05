@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "role": " Web Developer ",
+      "organisation": "CODECRAFT INFOTECH",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "location": ",india",
+      "experiences": [
+        "Worked on Website devloped",
+        "Worked on TODO list "
+      ],
+      "imageSrc": "company/google.png"
+    }
+    
+    
+    
+  ]
